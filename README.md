@@ -84,10 +84,13 @@ Messages are automatically scheduled and sent based on each patient’s pregnanc
 
 ---
 
-## 🔗 Related Articles
+- ## 🔗 Related Articles
 
-- How I Built a Maternity Health SMS System in Rural Kenya and What It Taught Me About AI-Driven Care  
-- Why Most Health Tech Projects Fail in Rural Africa (And What Actually Works)  
+These articles expand on the real-world insights and design decisions behind this system:
+
+- [How I Built a Maternity Health SMS System in Rural Kenya and What It Taught Me About AI-Driven Care] (https://medium.com/@muthokatitus/how-i-built-a-maternity-health-sms-system-in-rural-kenya-and-what-it-taught-me-about-ai-driven-care-e843b93d367a)
+
+- [Why Most Health Tech Projects Fail in Rural Africa (And What Actually Works Instead)] (https://medium.com/@muthokatitus/why-most-health-tech-projects-fail-in-rural-africa-and-what-actually-works-instead-028df3de9ebc)
 
 ---
 
